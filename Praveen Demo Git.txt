@@ -1,0 +1,46 @@
+Hi Na 
+
+Git Commands Daily Usage
+
+
+
+Git clone
+
+
+After modification in your branch
+
+Git Status (Red)
+
+Git add .
+
+Git fileneme1.txt,filename2.png
+
+
+Git Status(Green)
+
+Git commit -m "New Demo or Anytging you can write  based on Task in your organization"
+
+
+Git Push
+
+if we receive any error you need to get lastest changes from remote repository (Github)
+
+-----------------------------------------------------------------
+
+
+Git pull 
+
+Git Fetch  (Git Pull and Git Fetch find Differenfces and try to find how it works )
+
+
+Git Push
+
+
+-----------
+
+Git Cherrypick
+
+Git switch branch branchname
+
+git create branch branchname 
+
